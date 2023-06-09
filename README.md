@@ -13,11 +13,11 @@ When I'm not coding in my tiny Brooklyn apartment, I'm at a concert, traveling, 
 
 ## 🔭 I’m currently working on...
 
-- Scrapping my very basic [first personal website](https://lcardoz.github.io/leah-cardoz/) built with vanilla JavaScript and rebuilding it with React and Semantic UI! Check out my new and improved (and deployed) website [here!](https://www.leahcardoz.com/)
+- Scrapping my very basic [first personal website](https://lcardoz.github.io/leah-cardoz/) built with vanilla JavaScript and rebuilding it with React and Semantic UI. Check out my [new deployed website here!](https://www.leahcardoz.com/)
 
 - Building a [National Parks park planner app](https://github.com/maxnmcbride/baby_davie_crocket_remembers_the_alamo) with React and Rails, utilizing MapBox and fetching from the National Parks API. A fun group project (and a work in progress!) by Aaron David, Keila Lopez, Lindsay Taylor, Max McBride & myself.
 
 ## 📫 Access me!
-
+- [Email](mailto:leahcardoz@gmail.com)
 - [Website](https://www.leahcardoz.com/)
 - [LinkedIn](https://www.linkedin.com/in/lcardoz/)
