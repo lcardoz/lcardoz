@@ -1,6 +1,6 @@
 # Hi there, I'm Leah! 👋
 
-I'm a full stack software engineer with a knack for eye-catching, user-friendly web design. With a decade of experience supporting C-level executives in the live music industry, I excel in delivering optimal results with professionalism in high-pressure environments. As a proud member of the AAPI and LGBTQ+ communities eager to begin my career in tech, I look forward to expanding my skill set at a workplace that values integrity and embraces community.
+I'm a full stack software engineer with a knack for eye-catching, user-friendly web design. With a decade of experience supporting C-level executives in the live music industry, I excel in delivering optimal results with high emotional intelligence and professionalism in fast-paced environments. Motivated, curious, and eager to kickstart my career in tech, I look forward to adapting and expanding my skill set at an innovative workplace that values collaboration and fosters belonging.
 
 When I'm not coding in my tiny Brooklyn apartment, I'm at a concert, traveling, or continuing my quest for the best slice of pizza in NYC!
 
